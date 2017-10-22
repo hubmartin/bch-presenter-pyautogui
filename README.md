@@ -5,6 +5,6 @@ This can be used to control volume by BigClown button kits, or create a simple s
 Author: Martin Hubacek
 
 Example mqtt messages (the payload is ignored)
-  key/volumemute
-  key/right
+  - key/volumemute
+  - key/right
 
