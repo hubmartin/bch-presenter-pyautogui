@@ -13,7 +13,7 @@
 from pyautogui import press, typewrite, hotkey
 import paho.mqtt.client as mqtt
 
-mqttBrokerAddress = "192.168.1.100"
+mqttBrokerAddress = "localhost"
 keyCommands = ["volumemute", "volumeup", "volumedown", "playpause", "nexttrack", "prevtrack", "left", "right", "up", "down", "space"]
 
 # The callback for when the client receives a CONNACK response from the server.
