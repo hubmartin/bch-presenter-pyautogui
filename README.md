@@ -8,3 +8,4 @@ Example mqtt messages (the payload is ignored)
   - key/volumemute
   - key/right
 
+![Node-RED config](docs/node-red.png)
